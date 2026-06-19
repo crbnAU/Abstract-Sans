@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>Designer</td>
-    <td><a href="https://www.cooperbacon.com">Cooper Bacon</a></td>
+    <td><a href="https://www.cooperbacon.com/">Cooper Bacon</a></td>
   </tr>
   <tr>
     <td>License</td>
@@ -45,11 +45,11 @@
 
 <p>
   The full license text is available in <code>LICENSE</code> and at
-  <a href="https://www.openfontlicense.org">https://www.openfontlicense.org</a>.
+  <a href="https://www.openfontlicense.org/">https://www.openfontlicense.org/</a>.
 </p>
 
 <h2>Credits</h2>
 
 <p>
-  Designed by <strong><a href="https://www.cooperbacon.com">Cooper Bacon</a></strong>.
+  Designed by <strong><a href="https://www.cooperbacon.com/">Cooper Bacon</a></strong>.
 </p>
