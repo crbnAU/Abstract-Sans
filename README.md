@@ -1,4 +1,4 @@
-<a href="https://www.cooperbacon.com/abstract-sans/">
+<a href="https://www.cooperbacon.com/aella/">
   <img 
     src="https://placehold.co/1200x600?text=Coming+Soon" 
     alt="Coming Soon"
@@ -6,10 +6,10 @@
   />
 </a>
 
-<h1>Abstract Sans</h1>
+<h1>Aella</h1>
 
 <p>
-  Abstract Sans is a modern neo-grotesque sans-serif typeface designed for cleanliness, clarity, and versatility.
+  Aella is a modern neo-grotesque sans-serif typeface designed for cleanliness, clarity, and versatility.
 </p>
 
 <h2>Font Information</h2>
@@ -17,11 +17,11 @@
 <table>
   <tr>
     <td>Official Publication Name</td>
-    <td>Abstract Sans</td>
+    <td>Aella</td>
   </tr>
   <tr>
     <td>Reserved Font Names</td>
-    <td>Abstract, Abstract Sans</td>
+    <td>Aella, Aella Sans</td>
   </tr>
   <tr>
     <td>Designer</td>
@@ -36,7 +36,7 @@
 <h2>License</h2>
 
 <p>
-  Abstract Sans is licensed under the <strong>SIL Open Font License, Version 1.1</strong>.
+  Aella is licensed under the <strong>SIL Open Font License, Version 1.1</strong>.
 </p>
 
 <p>
