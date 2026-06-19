@@ -21,4 +21,4 @@ The full license text is available in [`LICENSE`](./LICENSE) and at https://www.
 
 ## Credits
 
-Designed by **Cooper Bacon** — [www.cooperbacon.com](https://www.cooperbacon.com)
+Designed by **[Cooper Bacon](https://www.cooperbacon.com).**
