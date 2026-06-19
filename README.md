@@ -1,8 +1,10 @@
-<img 
-  src="https://placehold.co/1920x1080?text=Coming+Soon" 
-  alt="Coming Soon"
-  style="width:100%; max-width:100%; border-radius:12px; display:block; margin-bottom:24px;"
-/>
+<a href="https://www.cooperbacon.com/abstract-sans/">
+  <img 
+    src="https://placehold.co/1200x600?text=Coming+Soon" 
+    alt="Coming Soon"
+    style="width:100%; max-width:900px; display:block; margin:0 auto 24px; border-radius:12px;"
+  />
+</a>
 
 <h1>Abstract Sans</h1>
 
