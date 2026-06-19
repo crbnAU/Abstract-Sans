@@ -1,8 +1,10 @@
-# Abstract Sans
+<h1>Abstract Sans</h1>
 
-Abstract Sans is a modern neo-grotesque sans-serif typeface designed for cleanliness, clarity, and versatility.
+<p>
+  Abstract Sans is a modern neo-grotesque sans-serif typeface designed for cleanliness, clarity, and versatility.
+</p>
 
-## Font Information
+<h2>Font Information</h2>
 
 <table>
   <tr>
@@ -23,14 +25,23 @@ Abstract Sans is a modern neo-grotesque sans-serif typeface designed for cleanli
   </tr>
 </table>
 
-## License
+<h2>License</h2>
 
-Abstract Sans is licensed under the **SIL Open Font License, Version 1.1**.
+<p>
+  Abstract Sans is licensed under the <strong>SIL Open Font License, Version 1.1</strong>.
+</p>
 
-This license permits the font to be used, studied, modified, and redistributed freely, including for commercial purposes, provided the font itself is not sold on its own and the Reserved Font Names are not used to promote modified versions without permission.
+<p>
+  This license permits the font to be used, studied, modified, and redistributed freely, including for commercial purposes, provided the font itself is not sold on its own and the Reserved Font Names are not used to promote modified versions without permission.
+</p>
 
-The full license text is available in [`LICENSE`](./LICENSE.md) and at https://www.openfontlicense.org.
+<p>
+  The full license text is available in <code>LICENSE</code> and at
+  <a href="https://www.openfontlicense.org">https://www.openfontlicense.org</a>.
+</p>
 
-## Credits
+<h2>Credits</h2>
 
-Designed by **[Cooper Bacon](https://www.cooperbacon.com).**
+<p>
+  Designed by <strong><a href="https://www.cooperbacon.com">Cooper Bacon</a></strong>.
+</p>
